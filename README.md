@@ -12,6 +12,6 @@ $ npm install
 
 Run using 'npm start' or 'npm run dev' in an environment with the following variables:
 
-  MONGODB_URL=<accessible MongoDB URL>
-  
-  PORT=<port you want the app to listen to>
+  MONGODB_URL=\<accessible MongoDB URL\>
+
+  PORT=\<port you want the app to listen to\>
