@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "possible to add",
+      "number": "duplicates",
+      "id": 5
+    },
+    {
+      "name": "so client should always fetch",
+      "number": "the latest b4 doing anything",
+      "id": 6
+    },
+    {
+      "name": "not with these ",
+      "number": "skills doe",
+      "id": 7
+    }
+  ]
+}
